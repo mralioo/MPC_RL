@@ -1,11 +1,11 @@
 #  Double Inverted Pendulum Swing-Up and Stabilization using MPC and RL
 
-## Paper
-[**Double Inverted Pendulum Swing-Up andStabilization using MPC and RL**]()
+## Report
+[**Double Inverted Pendulum Swing-Up andStabilization using MPC and RL**](Report_MPC_P5_v1.pdf)
 
 ## Getting Started
 
-### Installation  
+### Environment  
   1. [Download and install Conda](https://conda.io/docs/download.html)
      * Install conda enviroment:
      
